@@ -49,6 +49,7 @@ footer{
   text-decoration:none;
   display:block;
   background:#666;
+  text-align: center;
 }
 #menu li a:hover {
   background:#555;
