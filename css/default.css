@@ -5,6 +5,7 @@ body{
 H1{
   font-family: 'Orbitron', sans-serif;
   color: white;
+  text-align: center;
 }
 H2{
   font-size: 20px;
