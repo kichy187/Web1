@@ -27,7 +27,7 @@ footer{
   text-align: center;
   background-color: #212121;
 }
-#gnav a{
+#menu a{
   display: block;
   padding:10px 0;
   text-align: center;
@@ -35,11 +35,11 @@ footer{
   background:darkgreen;
   color: white;
 }
-#gnav a: hover {
+#menu a: hover {
   background: lightgreen;
   color: black;
 }
-#gnav a{
+#menu a{
   display: block;
   padding:10px 0;
   background: darkgreen;
@@ -48,17 +48,17 @@ footer{
   text-decoration: none;
   color:white;
 }
-#gnav after{
+#menu after{
   clear: both;
 }
-#gnav div.img{
+#menu div.img{
   display: table-cell;
   vertical-align:middle;
   background: url(../img/c.png) no-repeat;
   width: 45px;
   height: 40px;
 }
-#gnav dic.text{
+#menu dic.text{
   display: table-cell;
   vertical-align:middle;
   padding:10px 5px;
@@ -69,20 +69,20 @@ div.img#con2{ background-position: 0 -318px;}
 div.img#story{ background-position: 0 -575px;}
 div.img#special{ background-position: 0 -575px;}
 div.img#help{ background-position: 0 -446px;}
-#gnav a.selected{
+#menu a.selected{
   background: white;
   color: darkgreen;
   font-weight: bold;
 }
-#gnav ul{
+#menu ul{
   overflow: hidden;
 }
-#gnav li{
+#menu li{
   float: left;
   width: 156px;
   border-right: white 1px solid;
   list-style-type: none;
 }
-#gnav li:first-child{
+#menu li:first-child{
   border-left: white 1px solid;
 }
