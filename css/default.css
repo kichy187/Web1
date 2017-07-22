@@ -27,62 +27,29 @@ footer{
   text-align: center;
   background-color: #212121;
 }
-#menu a{
-  display: block;
-  padding:10px 0;
-  text-align: center;
-  text-decoration: none;
-  background:darkgreen;
-  color: white;
-}
-#menu a: hover {
-  background: lightgreen;
-  color: black;
-}
-#menu a{
-  display: block;
-  padding:10px 0;
-  background: darkgreen;
-  color: black;
-  text-align: center;
-  text-decoration: none;
-  color:white;
-}
-#menu after{
-  clear: both;
-}
-#menu div.img{
-  display: table-cell;
-  vertical-align:middle;
-  background: url(../img/c.png) no-repeat;
-  width: 45px;
-  height: 40px;
-}
-#menu dic.text{
-  display: table-cell;
-  vertical-align:middle;
-  padding:10px 5px;
-}
-div.img#home{ background-position: 0 0px;}
-div.img#con1{ background-position: 0 -127px;}
-div.img#con2{ background-position: 0 -318px;}
-div.img#story{ background-position: 0 -575px;}
-div.img#special{ background-position: 0 -575px;}
-div.img#help{ background-position: 0 -446px;}
-#menu a.selected{
-  background: white;
-  color: darkgreen;
-  font-weight: bold;
-}
-#menu ul{
-  overflow: hidden;
-}
-#menu li{
-  float: left;
-  width: 156px;
-  border-right: white 1px solid;
+#menu {
+  width:530px;
+  padding:0;
+  margin:0;
   list-style-type: none;
 }
-#menu li:first-child{
-  border-left: white 1px solid;
+#menu li {
+  width:20%;
+  float:left;
+  padding:0;
+  margin:0;
+  text-align:center;
+}
+#menu li a {
+  width:auto;
+  color:#fff;
+  font-size:12px;
+  font-weight:bold;
+  padding:10px 0;
+  text-decoration:none;
+  display:block;
+  background:#666;
+}
+#menu li a:hover {
+  background:#555;
 }
