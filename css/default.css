@@ -56,12 +56,6 @@ footer{
 #menu li a:hover {
   background:#555;
 }
-#menu li:first-child a{
-  border-radius:5px 0 0 5px;
-}
-#menu li:last-child a{
-  border-radius:0 5px 5px 0;
-}
 .center{
  text-align: center;
 }
