@@ -74,12 +74,14 @@ footer{
   display: table-cell;
   vertical-align:middle;
   padding:10px 5px;
+  display: table-cell;
+	vertical-align: middle;
 }
-div.img#home{ background-position: 0 0px;}
-div.img#con1{ background-position: 0 -127px;}
-div.img#con2{ background-position: 0 -318px;}
-div.img#story{ background-position: 0 -575px;}
-div.img#help{ background-position: 0 -446px;}
+div.img#home{ background-position: 1 25px;}
+div.img#con1{ background-position: 1 -127px;}
+div.img#con2{ background-position: 1 -318px;}
+div.img#story{ background-position: 1 -575px;}
+div.img#help{ background-position: 1 0px;}
 
 .center{
  text-align: center;
