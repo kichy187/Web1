@@ -3,15 +3,6 @@ body{
   background-color: #757575;
   text-align: center;
 }
-.main {  
-    width: 100%;  
-    border: 1px solid #000;  
-}  
-.main div   {  
-    width: 80%;  
-    border: 1px solid #FF0000;  
-    margin: 0 auto;  
-}  
 H1{
   font-family: 'Orbitron', sans-serif;
   color: white;
