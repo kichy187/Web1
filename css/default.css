@@ -60,4 +60,6 @@ footer{
 #menu li:last-child a{
   border-radius:0 5px 5px 0;
 }
-
+.center{
+ text-align: center;
+}
