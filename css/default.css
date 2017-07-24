@@ -78,9 +78,9 @@ footer{
 	vertical-align: middle;
 }
 div.img#home{ background-position: 1 25px;}
-div.img#con1{ background-position: 30 50px;}
-div.img#con2{ background-position: 1 100px;}
-div.img#story{ background-position: 1 150px;}
+div.img#con1{ background-position: 1 -20px;}
+div.img#con2{ background-position: 1 -100px;}
+div.img#story{ background-position: 1 -150px;}
 div.img#help{ background-position: 1 0px;}
 
 .center{
